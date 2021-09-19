@@ -1,0 +1,38 @@
+name: 'Beauty Salon'
+type: profile
+description: 'Beauty salon site'
+core_version_requirement: '^8.8 || ^9'
+
+dependencies:
+  - block
+  - block_content
+  - breakpoint
+  - ckeditor
+  - config
+  - contextual
+  - datetime
+  - dblog
+  - editor
+  - field
+  - field_ui
+  - file
+  - filter
+  - image
+  - link
+  - menu_ui
+  - node
+  - options
+  - path
+  - shortcut
+  - system
+  - taxonomy
+  - text
+  - toolbar
+  - update
+  - user
+  - views_ui
+  - menu_link_content
+  - views
+
+themes:
+  - seven
